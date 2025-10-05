@@ -6,6 +6,17 @@ AstroBuddy is an AI-powered web application developed by **Team BeastMode (Likit
 
 <br>
 Link to the Hosted Website:- https://beastmode-hackathon-project1.figma.site/
+<br>
+What uniqueness does it hold when compared to other sites?<br>
+
+
+All-in-one ecosystem – Instead of focusing on just a chatbot, or just a 3D solar system, AstroBuddy combines AI conversation, real-time NASA data, quizzes, and 3D visualization into one seamless platform.
+
+AI-powered learning – The quiz generator powered by OpenAI isn’t just static questions—it adapts, educates, and explains answers with fun facts, making learning personalized.
+
+Accessibility-first design – While many hackathon projects skip WCAG compliance, you’ve included screen-reader support, keyboard navigation, and mobile-first UI for inclusivity.
+
+Engagement focus – Gamification (quizzes + scores), interactive 3D models, and live space weather make it more than a utility—it’s an experience.
 
 ---
 
